@@ -1,0 +1,19 @@
+# Dataset
+data/*.zip
+data/train/
+data/Test_NoisyLR/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+models/*.pth
+models/*.pt
+models/*.onnx
+
+# Results
+results/*
