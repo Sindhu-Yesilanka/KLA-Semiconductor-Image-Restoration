@@ -1,3 +1,8 @@
+# Dataset outputs
+results/bicubic/*.npy
+results/bicubic/images/
+
+
 # Dataset
 data/*.zip
 data/train/
